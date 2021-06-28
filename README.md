@@ -3,5 +3,5 @@ API x JSON
 Simple REST API
 
 
-NOTE: project name --> api folder
-      project app --> subject folder
+NOTE: <p>project name --> api folder</p>
+<p>project app --> subject folder</p>
