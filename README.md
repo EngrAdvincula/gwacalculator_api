@@ -15,7 +15,7 @@ We only have to look for 4 python files: settings.py , models.py , urls.py , vie
 <br />
 
 <p>
-o &nbsp;&nbsp;  Insert '<project_app_name>' in an array INSTALLED APP in settings.py <br>
+o &nbsp;&nbsp;  Insert '{project_app_name}' in an array INSTALLED APP in settings.py <br>
   <br />
 o &nbsp;&nbsp;  Set models.py to inherit the database: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->  class function_name(models.Model): <br>
