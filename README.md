@@ -1,6 +1,8 @@
 # gwacalculator_api
-API x JSON
-Simple REST API
+API x JSON <br>
+-- A Simple REST API that tells us information about subjects and units per year level -- <br>
+
+<br />
 
 NOTE:
 <p>project name --> api folder</p>
