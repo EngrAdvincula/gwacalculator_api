@@ -1,5 +1,5 @@
 # gwacalculator_api
--- First Try (not implemented) (Simple REST API that tells us information about subjects and units per year level) (for future references) --
+-- First Try (not implemented) (Simple REST API that tells us information about subjects and units per courses) (for future references) --
 
 <br />
 
